@@ -1,0 +1,4 @@
+# See: See https://github.com/flutter/flutter/blob/master/packages/flutter/lib/analysis_options_user.yaml
+analyzer:
+  language:
+    enableSuperMixins: true
